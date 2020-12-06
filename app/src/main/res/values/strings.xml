@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase_itProger</string>
+    <string name="app_in_name">Тестирование Firebase</string>
+    <string name="app_name_autor">Freijer</string>
+    <string name="text_bottom">Войдите в свою учетку</string>
+    <string name="sign">Войти</string>
+    <string name="registr">Регистрация</string>
+
+
+</resources>

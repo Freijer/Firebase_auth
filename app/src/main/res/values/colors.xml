@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="text_bottom">#F1F832</color>
+
+    <color name="ripple_effect">#810812</color>
+    <color name="sign_color_back">#F66975</color>
+    <color name="sign_color_stroke">#000000</color>
+
+    <color name="registr_ripple_effect">#05752E</color>
+    <color name="registr_color_back">#7CF1AA</color>
+    <color name="registr_color_stroke">#000000</color>
+
+
+</resources>
